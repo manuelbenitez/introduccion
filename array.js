@@ -58,7 +58,7 @@ const names = ["Luca", "Marco", "Vittorio", "Giovanni"];
 
 // console.log(names.join("-"));
 
-// 49asdasd
+// 49
 
 const students = [
   { id: 1, name: "Luca", surname: "Rossi", age: 20 }, // 0
